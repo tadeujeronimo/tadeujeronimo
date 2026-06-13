@@ -40,24 +40,24 @@ Tenho interesse de pesquisa em **engenharia de software** e **inteligência arti
 
 | Título | Instituição | Período |
 |--------|-------------|---------|
-| 🎓 Mestrado em Engenharia Elétrica e de Computação *(em andamento)* | Universidade Federal do Ceará (UFC) | 2026 – atual |
-| 📚 Pós-graduação em Inteligência Artificial Generativa *(em andamento)* | Universidade Federal de Goiás (UFG) | 2025 – atual |
-| 🏅 MBA em Desenvolvimento Full Stack | Faculdade Unyleya | 2023 – 2024 |
-| 🏅 Especialização em Engenharia de Software e Gerenciamento de Projetos | Centro Universitário Braz Cubas | 2019 – 2020 |
-| 🎓 Bacharelado em Ciências da Computação | Universidade Estadual Vale do Acaraú (UVA) | 2011 – 2016 |
+| 🎓 Mestrado em Engenharia Elétrica e de Computação *(em andamento)* | Universidade Federal do Ceará (UFC) | `2026 – atual` |
+| 📚 Pós-graduação em Inteligência Artificial Generativa *(em andamento)* | Universidade Federal de Goiás (UFG) | `2025 – atual` |
+| 🏅 MBA em Desenvolvimento Full Stack | Faculdade Unyleya | `2023 – 2024` |
+| 🏅 Especialização em Engenharia de Software e Gerenciamento de Projetos | Centro Universitário Braz Cubas | `2019 – 2020` |
+| 🎓 Bacharelado em Ciências da Computação | Universidade Estadual Vale do Acaraú (UVA) | `2011 – 2016` |
 
 ---
 
 ## 💼 Experiência Profissional
 
 **Analista de Sistemas / Líder Técnico** — *Universidade Estadual Vale do Acaraú (UVA)*
-`2020 – atual` · Sobral, CE
+`2020 – atual` · Análise, desenvolvimento e manutenção de sistemas da instituição
 
 **Estagiário de Desenvolvimento de Sistemas** — *Tribunal de Contas da União (TCU)*
 `2022 – 2024` · Oracle APEX · modelagem, implementação, teste e documentação
 
 **Webmaster (Analista de Sistemas Web)** — *Faculdade Luciano Feijão*
-`2018 – 2020` · CBO 2124-05
+`2018 – 2020` · Desenvolvimento e manutenção de sites e portais da instituição
 
 **Instrutor de Treinamento em TI** — *Embrapa Caprinos e Ovinos*
 `2016` · Oracle APEX · iReport Designer
@@ -104,15 +104,15 @@ Tenho interesse de pesquisa em **engenharia de software** e **inteligência arti
 
 ## 🏆 Certificações & Conquistas
 
-- 🥇 **1º lugar** — XVIII Maratona de Programação SBC, Fase Regional (Sobral/CE, 2013)
-- 🥇 **1º lugar** — I Maratona de Programação UVA (2015)
-- 🥈 **2º lugar** — I Maratona de Programação de Sobral, UFC Campus Sobral (2015).
-- 🥉 **Menção Honrosa** — XVIII Maratona de Programação SBC, Fase Nacional (Uberlândia/MG, 2013)
-- 🤖 **Generative AI Professional Certificate** — CertiProf (2025)
-- ☁️ **Cloud Foundations** — AWS Academy (2024)
-- 🔁 **Scrum Foundations Professional Certificate** — CertiProf (2020)
-- 🔄 **Scrum Fundamentals Certified** — SCRUMstudy (2018)
-- ✅ **PHP Boas Práticas** — iMasters Certified Professional (2018)
+- 🥇 **1º lugar** — XVIII Maratona de Programação SBC, Fase Regional (Sobral/CE, `2013`)
+- 🥇 **1º lugar** — I Maratona de Programação UVA (`2015`)
+- 🥈 **2º lugar** — I Maratona de Programação de Sobral, UFC Campus Sobral (`2015`).
+- 🥉 **Menção Honrosa** — XVIII Maratona de Programação SBC, Fase Nacional (Uberlândia/MG, `2013`)
+- 🤖 **Generative AI Professional Certificate** — CertiProf (`2025`)
+- ☁️ **Cloud Foundations** — AWS Academy (`2024`)
+- 🔁 **Scrum Foundations Professional Certificate** — CertiProf (`2020`)
+- 🔄 **Scrum Fundamentals Certified** — SCRUMstudy (`2018`)
+- ✅ **PHP Boas Práticas** — iMasters Certified Professional (`2018`)
 
 ---
 
