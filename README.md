@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.about.me/background/users/t/a/d/tadeujeronimo_1725661390_3.png" width="150" style="border-radius: 50%" />
+  <img src="https://wsrv.nl/?url=https://assets.about.me/background/users/t/a/d/tadeujeronimo_1725661390_3.png&w=250&h=250&fit=cover&mask=circle" />
 </p>
 
 <h1 align="center">
