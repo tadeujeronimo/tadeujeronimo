@@ -129,8 +129,8 @@ Tenho interesse de pesquisa em **engenharia de software** e **inteligência arti
 
 <p align="center">
   <a href="https://tadeujeronimo.com">🌐 tadeujeronimo.com</a> &nbsp;|&nbsp;
+  <a href="mailto:tadeus.jeronimo@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/tadeujeronimo">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="http://lattes.cnpq.br/2644575253856954">🎓 Lattes</a> &nbsp;|&nbsp;
   <a href="https://about.me/tadeujeronimo">👤 About.me</a>
 </p>
 
