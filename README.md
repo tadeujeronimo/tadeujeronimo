@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wsrv.nl/?url=https://assets.about.me/background/users/t/a/d/tadeujeronimo_1725661390_3.png&w=150&h=150&fit=cover&mask=circle" />
+  <img src="https://wsrv.nl/?url=https://assets.about.me/background/users/t/a/d/tadeujeronimo_1725661390_3.png&w=150&h=150&fit=cover&mask=circle" title="Tadeu Jerônimo" />
 </p>
 
 <h1 align="center">
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Cientista da Computação formado pela **Universidade Estadual Vale do Acaraú (UVA)**, com sólida experiência em **Análise de Sistemas**, **Desenvolvimento Full Stack** e **Banco de Dados**. Atualmente atuo como **Analista de Sistemas** e **Líder Técnico** no Núcleo de Tecnologia da Informação da UVA, em Sobral – CE.
+Sou Cientista da Computação formado pela **Universidade Estadual Vale do Acaraú (UVA)**, com sólida experiência em **Análise de Sistemas**, **Desenvolvimento Full Stack** e **Banco de Dados**. Atualmente atuo como **Analista de Sistemas** e **Líder Técnico** no Núcleo de Tecnologia da Informação da UVA.
 
 Tenho interesse de pesquisa em **engenharia de software** e **inteligência artificial**. Nas horas vagas, além de explorar novas tecnologias e frameworks, gosto de ouvir música e tocar violão ou guitarra.
 
