@@ -149,8 +149,8 @@ Tenho interesse de pesquisa em **engenharia de software** e **inteligência arti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tadeujeronimo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadeujeronimo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=tadeujeronimo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tadeujeronimo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
