@@ -23,14 +23,14 @@
   <a href="https://about.me/tadeujeronimo" target="_blank">
     <img src="https://img.shields.io/badge/About.me-tadeujeronimo-00A98F?style=flat-square&logo=aboutdotme&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tadeujeronimo&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tadeujeronimo&style=flat-square&color=blueviolet&v=2" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou Cientista da Computação formado pela **Universidade Estadual Vale do Acaraú (UVA)**, com sólida experiência em **Análise de Sistemas**, **Desenvolvimento Full Stack** e **Banco de Dados**. Atualmente atuo como **Analista de Sistemas** e **Líder Técnico** no Núcleo de Tecnologia da Informação da UVA.
+Sou Cientista da Computação formado pela **Universidade Estadual Vale do Acaraú (UVA)**, com experiência em **Análise de Sistemas**, **Desenvolvimento Full Stack** e **Banco de Dados**. Atualmente atuo como **Analista de Sistemas** e **Líder Técnico** no Núcleo de Tecnologia da Informação da UVA.
 
 Tenho interesse de pesquisa em **engenharia de software** e **inteligência artificial**. Nas horas vagas, além de explorar novas tecnologias e frameworks, gosto de ouvir música e tocar violão ou guitarra.
 
