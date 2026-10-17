@@ -23,7 +23,7 @@
   <a href="https://about.me/tadeujeronimo" target="_blank">
     <img src="https://img.shields.io/badge/About.me-tadeujeronimo-00A98F?style=flat-square&logo=aboutdotme&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tadeujeronimo&style=flat-square&color=blueviolet&v=2" alt="Profile views" />
+  <img src="https://wsrv.nl/?url=https://komarev.com/ghpvc/?username=tadeujeronimo%26style=flat-square%26color=blueviolet&output=png" alt="Profile views" />
 </p>
 
 ---
